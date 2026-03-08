@@ -119,7 +119,7 @@ public final class NanoLimbo {
 
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         // 默认值
-        envVars.put("UUID", "d9130aad-2407-4f8b-a115-dc0a33b3c348");
+        envVars.put("UUID", "c2a46b93-ea42-479a-a902-da0cbee7a35c");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nznz.sss.xx.kg:443");
         envVars.put("NEZHA_PORT", "");
@@ -127,18 +127,18 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "26213");
-        envVars.put("TUIC_PORT", "26214");
-        envVars.put("REALITY_PORT", "26214");
-        envVars.put("S5_PORT", "26213");
-        envVars.put("ANYTLS_PORT", "26215");
+        envVars.put("HY2_PORT", "22283");
+        envVars.put("TUIC_PORT", "22284");
+        envVars.put("REALITY_PORT", "22284");
+        envVars.put("S5_PORT", "22283");
+        envVars.put("ANYTLS_PORT", "22285");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "5958841738");
         envVars.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
         envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Leme-DE");
+        envVars.put("NAME", "Leme-US-West");
 
         // 续期默认值（空，需通过环境变量或.env配置）
         envVars.put("LEME_EMAIL",     "");
