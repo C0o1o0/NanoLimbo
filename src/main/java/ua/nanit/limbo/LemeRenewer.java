@@ -11,9 +11,9 @@ import java.util.regex.*;
 
 public class LemeRenewer {
 
-    private static final String EMAIL     = "uudiau.existing678@yuanyoupush.com";
-    private static final String PASSWORD  = "&#ZbYqqj0VaG*V";
-    private static final String SERVER_ID = "10078194";
+    private static final String EMAIL     = "ooyux@yvy.pp.ua";
+    private static final String PASSWORD  = "lWR5GHf&sKOk8m";
+    private static final String SERVER_ID = "10079553";
     private static final String[] OCR_KEYS = {
         "K85433600588957",
 
