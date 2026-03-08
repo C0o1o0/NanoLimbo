@@ -11,11 +11,11 @@ import java.util.regex.*;
 
 public class LemeRenewer {
 
-    private static final String EMAIL     = "填邮箱";
-    private static final String PASSWORD  = "填密码";
-    private static final String SERVER_ID = "填续期页面的ID";
+    private static final String EMAIL     = "uudiau.existing678@yuanyoupush.com";
+    private static final String PASSWORD  = "&#ZbYqqj0VaG*V";
+    private static final String SERVER_ID = "10078194";
     private static final String[] OCR_KEYS = {
-        "填OCR APIKEY",
+        "K85433600588957",
 
     };
 
